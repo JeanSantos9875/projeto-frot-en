@@ -13,7 +13,7 @@ Integrantes:
 
 Jean: Responsável pelo CSS, HTML e Github. 
 
-Rafael: Responsável pelo Relatório e Figma. 
+Rafael: Responsável pelo Relatório, Figma e Rubrica. 
 
  
 
@@ -55,8 +55,18 @@ DOG_DO_CANGACEIRO/
 └── relatorio.docx 
 
  
+4.2 Melhorias implementadas na parte 2
 
- 
+componentes modularizadas
+
+ajustes de acessibilidade: visuais para se adaptar nos respectivos tamanhos
+ajustes de resposividade: 
+integrações externas adicionadas: Google maps.
+
+4.3 Desafios
+
+encontramos alguns desafios para adicionar os respectivos ajustes para adaptação de tamanho nos dispositivos.
+promixo passo e fazer alguns ajustes visuais e fazer a venda do projeto.
 
 5. Etapas Realizadas (com Datas e Responsáveis) 
 
