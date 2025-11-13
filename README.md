@@ -68,6 +68,10 @@ integrações externas adicionadas: Google maps.
 encontramos alguns desafios para adicionar os respectivos ajustes para adaptação de tamanho nos dispositivos.
 promixo passo e fazer alguns ajustes visuais e fazer a venda do projeto.
 
+4.4 adicionados
+
+adicionmos o iframe pois foi oque se encaixou melhor ao site e mais simples para oque queriamos.
+
 5. Etapas Realizadas (com Datas e Responsáveis) 
 
 Data 
