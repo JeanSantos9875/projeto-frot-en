@@ -51,7 +51,7 @@ DOG_DO_CANGACEIRO/
 │   ├── logo.png 
 │   ├── produtos/ 
 │ 
-│ 
+├── rubricaDFE.docx
 └── relatorio.docx 
 
  
