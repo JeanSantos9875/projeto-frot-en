@@ -46,7 +46,6 @@ DOG_DO_CANGACEIRO/
 ├── index.html 
 ├── servicos.html
 ├── style.css 
-├── java.js
 │ 
 ├── /imagens 
 │   ├── logo.png 
