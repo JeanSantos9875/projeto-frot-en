@@ -60,7 +60,7 @@ DOG_DO_CANGACEIRO/
 componentes modularizadas
 
 ajustes de acessibilidade: visuais para se adaptar nos respectivos tamanhos
-ajustes de resposividade: 
+ajustes de resposividade: As imagens redimensionam automaticamente, o layout se reorganiza para caber bem na tela.
 integrações externas adicionadas: Google maps.
 
 4.3 Desafios
