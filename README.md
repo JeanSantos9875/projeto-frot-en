@@ -44,7 +44,7 @@ Justificativa do negócio escolhido:
 DOG_DO_CANGACEIRO/ 
 │ 
 ├── index.html 
-├── servicos.html 
+├── servicos.html
 ├── style.css 
 │ 
 ├── /imagens 
