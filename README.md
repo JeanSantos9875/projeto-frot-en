@@ -165,7 +165,7 @@ layout em hamburguer para os aparelhos celulares se adaptando de acordo com o ta
 testamos no seguintes navegadores: opera gx, safari, google chrome.
 encontramos alguns problemas na questao do google maps mas bem simples para ser resolvido pois era mexer no height e no widht do codigo do google maps no index.
 
-
+link da pasta de testes: https://github.com/JeanSantos9875/projeto-frot-en/tree/main/docs.testes-responsividade
 
 
 
