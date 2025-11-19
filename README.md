@@ -47,10 +47,18 @@ DOG_DO_CANGACEIRO/
 ├── servicos.html
 ├── style.css 
 │ 
+├── /docs.testes-responsividade/
+│   ├──cardapio pc.png
+│   ├──inicio pc.png
+│   ├──contato pc.png
+│   ├──inicio.png
+│   ├──cardapio.png
+│
 ├── /imagens 
 │   ├── logo.png 
+│   ├── favicon.png
 │   ├── produtos/ 
-│ 
+│
 ├── rubricaDFE.docx
 └── relatorio.docx 
 
