@@ -140,6 +140,22 @@ https://jeansantos9875.github.io/projeto-frot-en/index.html
 <img width="1562" height="798" alt="image" src="https://github.com/user-attachments/assets/de5c3bfe-e6fe-4e4f-8230-c4ff12487827" />
 19/11/2025
 
+9. melhorias adicionadas
+
+melhorias na imagem deixamos as imagens mais leves para o carregamento
+mexemos no codigo css para ele ficar menor
+
+10. teste de compatibilidade
+
+<img width="321" height="701" alt="image" src="https://github.com/user-attachments/assets/395e6573-5c5f-4f35-be0a-f892ecd31d20" />
+<img width="346" height="763" alt="image" src="https://github.com/user-attachments/assets/23be6074-0f4d-4c50-90ad-c11eded86946" />
+
+layout em hamburguer para os aparelhos celulares se adaptando de acordo com o tamanho.
+
+11.Testes Realizados
+
+testamos no seguintes navegadores: opera gx, safari, google chrome.
+encontramos alguns problemas na questao do google maps mas bem simples para ser resolvido pois era mexer no height e no widht do codigo do google maps no index.
 
 
 
