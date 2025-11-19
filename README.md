@@ -132,4 +132,17 @@ Layout:
 
 O próximo passo será apresentar o projeto para o pessoal do Dog do Cangaceiro com o objetivo de realizar a venda do site e aplicar o design aprovado na versão oficial do negócio. 
 
+8. Acesso ao site
+
+https://jeansantos9875.github.io/projeto-frot-en/index.html
+<img width="1565" height="747" alt="image" src="https://github.com/user-attachments/assets/84d42b25-9a89-4de4-ac7f-17160297d5f1" />
+<img width="1566" height="781" alt="image" src="https://github.com/user-attachments/assets/34a56a97-53b8-456a-ba8e-8f9bc87d159e" />
+<img width="1562" height="798" alt="image" src="https://github.com/user-attachments/assets/de5c3bfe-e6fe-4e4f-8230-c4ff12487827" />
+19/11/2025
+
+
+
+
+
+
  
